@@ -7,13 +7,13 @@
     },
     {
         "name": "Tittu Varghese",
-        "species": "CTO",
+        "position": "CTO",
         "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/thumbnail_galah.jpg",
         "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/galah.jpg"
     },
     {
         "name": "Ajith E R",
-        "species": "Developer",
+        "position": "Developer",
         "thumbnail": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/thumbnail_dartfrog.jpg",
         "image": "https://raw.githubusercontent.com/PaulTR/GettingStartedWithAndroid/master/images/exhibits/dartfrog.jpg"
     }
